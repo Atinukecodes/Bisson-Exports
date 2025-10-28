@@ -86,5 +86,7 @@ Business storytelling with data
 
 It is designed to be both a learning tool and a showcase of data science capabilities.
 
+Project Demo: https://drive.google.com/file/d/1t-NjiOJdWilyR8HNAXgzVsxZt9hK8C4S/view?usp=sharing
+
 ✨ Author: Atinuke Towoju
 📧 Contact: https://www.linkedin.com/in/atinuke-towoju-b4184632b/
