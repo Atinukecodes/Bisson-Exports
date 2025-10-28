@@ -42,29 +42,6 @@ Jupyter Notebook → interactive analysis & storytelling
 ✔️ Wrote step-by-step Markdown explanations for portfolio showcase
 ✔️ Demonstrated data wrangling + exploratory data analysis (EDA) on mixed data sources
 
-📸 Sample Visualizations
-
-(You can add screenshots or generated charts here — e.g., bar charts of stipend vs spending, monthly travel trends, gender breakdowns.)
-
-🚀 How to Run the Project
-
-Clone the repository
-
-git clone https://github.com/your-username/employee-travel-analysis.git
-cd employee-travel-analysis
-
-
-Install dependencies
-
-pip install -r requirements.txt
-
-
-Open the Jupyter Notebook
-
-jupyter notebook
-
-
-Run analysis.ipynb to explore the data and visualizations.
 
 🌟 Insights & Learnings
 
